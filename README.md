@@ -14,26 +14,24 @@
 
 ### The Blueprint
 
-```typescript
-const sanskriti: Developer = {
-  identity: {
-    name: "Sanskriti",
-    pronouns: ["she", "her"],
-    role: "Software Developer",
-    location: "India"
-  },
-  expertise: {
-    domains: ["Full-Stack Development", "UI/UX Design", "Open Source"],
-    philosophy: "Write less. Mean more.",
-    currentChapter: "Building things that outlast trends"
-  },
-  contact: {
-    email: "sanskritiworks13@gmail.com",
-    github: "github.com/sanskritii06",
-    linkedin: "linkedin.com/in/sanskriti13"
-  }
-};
-```
+<div align="center">
+
+| | |
+|:---:|---|
+| **Name** | Sanskriti |
+| **Role** | Software Developer |
+| **Pronouns** | she / her |
+| **Location** | India |
+| **Focus** | Full-Stack Development · UI/UX Design · Open Source |
+| **Philosophy** | Write less. Mean more. |
+| **Currently** | Building things that outlast trends |
+| **Email** | sanskritiworks13@gmail.com |
+| **GitHub** | github.com/sanskritii06 |
+| **LinkedIn** | linkedin.com/in/sanskriti13 |
+
+</div>
+
+---
 
 ### Technical Arsenal
 
@@ -42,7 +40,7 @@ const sanskriti: Developer = {
   <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF6EB4" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF6EB4" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=FF6EB4" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=FF6EB4" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF6EB4" alt="SQL" />
   <br/>
   <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=FF6EB4" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=FF6EB4" alt="Next.js" />
@@ -59,6 +57,8 @@ const sanskriti: Developer = {
 
 <br/>
 
+---
+
 ### Live Dashboard
 
 <div align="center">
@@ -66,15 +66,21 @@ const sanskriti: Developer = {
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskritii06&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6EB4&text_color=F0F0F0&langs_count=8"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritii06&theme=radical&hide_border=true&background=0D0D0D&ring=FF6EB4&fire=FF6EB4&currStreakLabel=FF6EB4&sideLabels=FF6EB4&sideNums=F0F0F0&currStreakNum=F0F0F0"/>
 </div>
+
+---
 
 ### Contribution Pulse
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskritii06&theme=radical&bg_color=0D0D0D&color=FF6EB4&line=FF6EB4&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
+
+---
 
 ### Connect & Collaborate
 
