@@ -1,33 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fecfef,ffb199&height=200&section=header&text=Hi,%20I'm%20Sanskriti!%20🌸&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=4a4a4a" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fecfef,ffb199&height=200&section=header&text=Sanskriti&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=4a4a4a" width="100%"/>
+</div>
 
-<h1 align="center">✨ Aspiring Software Engineer & AI Enthusiast | BCA Student</h1>
+<h1 align="center">Software Engineer & Artificial Intelligence Enthusiast</h1>
 
 <p align="center">
-  <i>Crafting robust software solutions, exploring the depths of Web Development, and diving into the fascinating world of Artificial Intelligence with a touch of elegance. 🎀</i>
+  <i>Specializing in Full-Stack Web Development, IT Infrastructure, and scalable Software Solutions.</i>
 </p>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=BCA+Student+🎓;Full-Stack+Web+Developer+💻;Software+Engineer+⚙️;AI+%26+Tech+Enthusiast+🌸)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=BCA+Undergraduate;Full-Stack+Web+Developer;Software+Engineer;AI+%26+Machine+Learning" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** Pursuing a Bachelor of Computer Application (BCA).
-- 💡 **Interests:** IT Infrastructure, Full-Stack Web Development, Software Engineering, and Artificial Intelligence.
-- 🌱 **Currently Learning:** Advanced AI models, modern web frameworks, and scalable system design.
-- 🤝 **Collaborate:** Open to open-source contributions and innovative AI/Web projects.
-- ⚡ **Fun Fact:** When I'm not writing code, I'm probably designing aesthetic UI/UX or exploring new tech trends! 💅
+### Professional Summary
+- **Academic Background:** Pursuing a Bachelor of Computer Application (BCA).
+- **Core Focus:** Building robust IT infrastructure, developing scalable full-stack applications, and implementing AI-driven solutions.
+- **Current Objectives:** Mastering advanced machine learning models, modern web architectures, and system design principles.
+- **Open Source:** Actively seeking collaborative opportunities in cutting-edge AI and Web Development projects.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Technical Proficiency
 
-#### 🌐 Web Development
+**Web Development**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,7 +35,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-#### 💻 Software Development
+**Software Engineering**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -44,7 +43,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🤖 AI & Machine Learning
+**Artificial Intelligence & Machine Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -53,20 +52,16 @@
 
 ---
 
-### 📊 GitHub Stats (Pink Tech Edition)
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskritii06&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=a9a9b3&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritii06&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=a9a9b3&bg_color=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskritii06&layout=compact&hide_border=true&title_color=FF69B4&text_color=a9a9b3&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritii06&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=a9a9b3&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
-### 📫 Let's Connect!
+### Connect & Collaborate
 
 <div align="center">
   <a href="mailto:sanskritiworks13@gmail.com">
